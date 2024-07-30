@@ -1,6 +1,8 @@
 # Quotes Maker
 Quotes Maker is a simple web application that allows users to create personalized quote images. Users can input a quote, choose a watermark, set font size and color, and upload a background image to generate a custom quote image. The resulting image is displayed directly on the page.
 
+![output](Output.jpg)
+
 ## Features
 #### User Input:
 - Quote: Enter the text for the quote.
